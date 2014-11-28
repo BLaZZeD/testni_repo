@@ -1,4 +1,4 @@
 testni_repo
 ===========
 
-Repozitorij za uporabo pri MVA
+Repozitorij za uporabo pri MVA.
